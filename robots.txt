@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /robots.txt
+Allow: /index.php
+Disallow: /app*/
+Disallow: /sys*/
+Disallow: /st*/
+Disallow: /up*/

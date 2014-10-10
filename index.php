@@ -44,6 +44,7 @@ if (defined('ENVIRONMENT'))
 		default:
 			exit('The application environment is not set correctly.');
 	}
+    date_default_timezone_set('PRC');
 }
 
 /*
