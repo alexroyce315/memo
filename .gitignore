@@ -5,7 +5,6 @@ application/cache/!index.html
 application/cache/!.htaccess
 application/config/*_online.php
 uploads/*/!index.html
-uploads/*/!.htaccess
 uploads/!index.html
 uploads/!.htaccess
 user_guide/
